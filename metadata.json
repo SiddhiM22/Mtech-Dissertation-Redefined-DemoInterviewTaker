@@ -1,0 +1,7 @@
+{
+  "name": "AI/ML Hiring Process Automation",
+  "description": "Automated hiring framework with smart resume parsing, role-relevant interview question generation, and AI-powered rubric answer scoring and feedback.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
